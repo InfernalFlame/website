@@ -1,0 +1,53 @@
+/* this used to be just h1 and main */
+* {
+  font-family: "Raleway", sans-serif
+}
+
+a {
+  font-family: "Times New Roman", Times, serif
+}
+
+body,
+html {
+  height: 100%
+}
+
+.bgimg {
+  background-image: url('http://getwallpapers.com/wallpaper/full/5/a/f/669080.jpg');
+  /*background: #121212;*/
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ntop {
+  margin-top: 2vh;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#logo {
+  width: 100px;
+}
+
+#sponsor {
+  width: 500px;
+  margin-bottom: 2vh;
+}
+
+#main-video {
+  display: block;
+  margin: 0 auto;
+  margin-top: 3vh;
+}
